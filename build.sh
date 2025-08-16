@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mkarchiso -v -w /home/andr/mivioLinux/work -o /home/andr/mivioLinux/output /home/andr/mivioLinux/archiso
+sudo mkarchiso -v -w /home/andr/Mivio-Linux/work -o /home/andr/Mivio-Linux/output /home/andr/Mivio-Linux/archiso/

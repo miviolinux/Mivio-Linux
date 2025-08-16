@@ -125,10 +125,14 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
-#
-#
-calamares
+
+#DE
 sddm
-fastfetch
 plasma-desktop
 xorg-xwayland
+#remove packages into installer (do not change or delete)
+calamares
+gparted
+# Other packages
+fastfetch
+firefox
