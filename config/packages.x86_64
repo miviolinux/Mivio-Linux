@@ -91,6 +91,7 @@ ppp
 pptpclient
 pv
 qemu-guest-agent
+polkit
 refind
 reflector
 rsync
@@ -139,8 +140,11 @@ konsole
 calamares
 yaml-cpp
 kpmcore
+python
+libpwquality
 #archiso-calamares-config
 gparted
 # OTHER
 firefox
 vim
+os-prober
