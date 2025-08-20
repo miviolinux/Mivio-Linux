@@ -1,7 +1,5 @@
 alsa-utils
 amd-ucode
-arch-install-scripts
-archinstall
 b43-fwcutter
 base
 bcachefs-tools
@@ -65,6 +63,7 @@ memtest86+
 memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
+mkinitcpio-busybox
 mkinitcpio-nfs-utils
 mmc-utils
 modemmanager
@@ -140,6 +139,7 @@ konsole
 calamares
 yaml-cpp
 kpmcore
+ckbcomp
 python
 libpwquality
 #archiso-calamares-config
