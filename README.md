@@ -33,7 +33,7 @@ Visit our official website for more information:
 
 ## Join the community
 
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/MivioLinux)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/MivioLinux)
 ## License
 
 This project is distributed under the [GNU General Public License v3.0](LICENSE)
